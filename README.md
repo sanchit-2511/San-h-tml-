@@ -25,9 +25,11 @@
 
 ## 📸 Screenshots
 
-![Output](http.images/i.png)
+![[Output](http.images/i.png)](https://github.com/sanchit-2511/San-h-tml-/blob/650383c4cd9cb1ad555dbb9f8805e0624633fc50/Images/Screenshot%20(107).png)
 
-📂 Project Structure
+![[Output](http.images/i.png)](https://github.com/sanchit-2511/San-h-tml-/blob/650383c4cd9cb1ad555dbb9f8805e0624633fc50/Images/Screenshot%20(108).png)
+
+## 📂 Project Structure
 
 ├── index.html   # Main structural file
 
